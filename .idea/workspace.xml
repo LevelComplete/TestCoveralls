@@ -204,7 +204,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Core/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Core/.idea/libraries/Maven__uk_co_datumedge_hamcrest_json_0_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Core/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../first-dataflow/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../first-dataflow/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../first-dataflow/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_0.xml" />
@@ -311,10 +310,16 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../first-dataflow/src/test/java/com/google/cloud/dataflow/examples/MinimalWordCountJava8Test.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../first-dataflow/src/test/resources/hello_world.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../first-dataflow/user.avsc" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/TestCoveralls-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/TestCoveralls-bundled-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../../hello_world/src/main/hello_world" afterPath="" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/../../../new/src/printing.java" afterPath="$PROJECT_DIR$/../../../new/src/main/java/Printing.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jacoco.exec" afterPath="$PROJECT_DIR$/target/jacoco.exec" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.gamesys.test.ManipulateNumbersTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.gamesys.test.ManipulateNumbersTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.gamesys.test.ManipulateNumbersTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.gamesys.test.ManipulateNumbersTest.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hello_world/.gitignore" afterPath="$PROJECT_DIR$/../../../hello_world/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hello_world/pom.xml" afterPath="$PROJECT_DIR$/../../../hello_world/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../new/.gitignore" afterPath="$PROJECT_DIR$/../../../new/.gitignore" />
@@ -344,8 +349,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="96" column="63" selection-start-line="96" selection-start-column="63" selection-end-line="96" selection-end-column="63" />
+            <state relative-caret-position="330">
+              <caret line="94" column="40" selection-start-line="94" selection-start-column="40" selection-end-line="94" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -520,6 +525,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestCoveralls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestCoveralls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestCoveralls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestCoveralls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cobertura" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -991,7 +1036,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-75" width="1920" height="1053" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1079,10 +1124,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/target/site/cobertura/coverage.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="96" column="63" selection-start-line="96" selection-start-column="63" selection-end-line="96" selection-end-column="63" />
+        <state relative-caret-position="330">
+          <caret line="94" column="40" selection-start-line="94" selection-start-column="40" selection-end-line="94" selection-end-column="40" />
           <folding />
         </state>
       </provider>

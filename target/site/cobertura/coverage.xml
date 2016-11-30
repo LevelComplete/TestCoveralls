@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+
+<coverage line-rate="1.0" branch-rate="1.0" lines-covered="3" lines-valid="3" branches-covered="0" branches-valid="0" complexity="1.0" version="2.1.1" timestamp="1480504865014">
+	<sources>
+		<source>--source</source>
+		<source>/Users/alexander.borgese/Documents/workspace/DataWarehouse/example/TestCoveralls/src/main/java</source>
+		<source>/Users/alexander.borgese/Documents/workspace/DataWarehouse/example/TestCoveralls/target/generated-sources/annotations</source>
+	</sources>
+	<packages>
+		<package name="com.gamesys.test" line-rate="1.0" branch-rate="1.0" complexity="1.0">
+			<classes>
+				<class name="com.gamesys.test.ManipulateNumbers" filename="com/gamesys/test/ManipulateNumbers.java" line-rate="1.0" branch-rate="1.0" complexity="1.0">
+					<methods>
+						<method name="&lt;init&gt;" signature="()V" line-rate="1.0" branch-rate="1.0" complexity="0">
+							<lines>
+								<line number="3" hits="2" branch="false"/>
+							</lines>
+						</method>
+						<method name="addTwoNumbers" signature="(II)I" line-rate="1.0" branch-rate="1.0" complexity="0">
+							<lines>
+								<line number="6" hits="1" branch="false"/>
+							</lines>
+						</method>
+						<method name="subtractTwoNumbers" signature="(II)I" line-rate="1.0" branch-rate="1.0" complexity="0">
+							<lines>
+								<line number="10" hits="1" branch="false"/>
+							</lines>
+						</method>
+					</methods>
+					<lines>
+						<line number="3" hits="2" branch="false"/>
+						<line number="6" hits="1" branch="false"/>
+						<line number="10" hits="1" branch="false"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+	</packages>
+</coverage>
