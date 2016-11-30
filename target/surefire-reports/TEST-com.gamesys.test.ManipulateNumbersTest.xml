@@ -6,6 +6,7 @@
     <property name="java.vm.version" value="25.91-b14"/>
     <property name="user.country.format" value="GB"/>
     <property name="gopherProxySet" value="false"/>
+    <property name="repoToken" value="bFp6Iwrw8KaVOmnmczrep4Sj8pEXzZnEiwBfh"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="maven.multiModuleProjectDirectory" value="/Users/alexander.borgese/Documents/workspace/DataWarehouse/example/TestCoveralls"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
@@ -45,7 +46,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher cobertura:cobertura coveralls:report"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher cobertura:cobertura coveralls:report -DrepoToken=bFp6Iwrw8KaVOmnmczrep4Sj8pEXzZnEiwBfh"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -64,6 +65,6 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="testAddition" classname="com.gamesys.test.ManipulateNumbersTest" time="0.001"/>
   <testcase name="testSubtraction" classname="com.gamesys.test.ManipulateNumbersTest" time="0.002"/>
+  <testcase name="testAddition" classname="com.gamesys.test.ManipulateNumbersTest" time="0.001"/>
 </testsuite>
