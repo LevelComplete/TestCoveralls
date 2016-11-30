@@ -9,4 +9,6 @@ public class ManipulateNumbers {
     public int subtractTwoNumbers(int a, int b) {
         return a - b;
     }
+
+    public int divideNumbers(int a, int b) { return a / b; }
 }

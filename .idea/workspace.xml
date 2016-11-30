@@ -204,9 +204,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Core/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Core/.idea/libraries/Maven__uk_co_datumedge_hamcrest_json_0_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Core/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gamesys/test/ManipulateNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/gamesys/test/ManipulateNumbersTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../first-dataflow/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../first-dataflow/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../first-dataflow/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_0.xml" />
@@ -313,10 +311,44 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../first-dataflow/src/test/java/com/google/cloud/dataflow/examples/MinimalWordCountJava8Test.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../first-dataflow/src/test/resources/hello_world.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../first-dataflow/user.avsc" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jacoco.exec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/branchfc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/branchnc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/branchpc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/bundle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/class.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/down.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/greenbar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/group.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/method.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/package.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/prettify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/redbar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/report.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/report.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/session.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/sort.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/sort.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/source.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.resources/up.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/.sessions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/com.gamesys.test/ManipulateNumbers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/com.gamesys.test/ManipulateNumbers.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/com.gamesys.test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/com.gamesys.test/index.source.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../../hello_world/src/main/hello_world" afterPath="" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/../../../new/src/printing.java" afterPath="$PROJECT_DIR$/../../../new/src/main/java/Printing.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/cobertura/cobertura.ser" afterPath="$PROJECT_DIR$/target/cobertura/cobertura.ser" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/gamesys/test/ManipulateNumbers.java" afterPath="$PROJECT_DIR$/src/main/java/com/gamesys/test/ManipulateNumbers.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/cobertura.properties" afterPath="$PROJECT_DIR$/target/generated-classes/cobertura/cobertura.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cobertura/coverage.xml" afterPath="$PROJECT_DIR$/target/site/cobertura/coverage.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.gamesys.test.ManipulateNumbersTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.gamesys.test.ManipulateNumbersTest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hello_world/.gitignore" afterPath="$PROJECT_DIR$/../../../hello_world/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hello_world/pom.xml" afterPath="$PROJECT_DIR$/../../../hello_world/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../new/.gitignore" afterPath="$PROJECT_DIR$/../../../new/.gitignore" />
@@ -343,11 +375,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="93" column="63" selection-start-line="93" selection-start-column="63" selection-end-line="93" selection-end-column="63" />
+            <state relative-caret-position="300">
+              <caret line="90" column="31" selection-start-line="90" selection-start-column="31" selection-end-line="90" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -363,11 +395,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ManipulateNumbers.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ManipulateNumbers.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gamesys/test/ManipulateNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            <state relative-caret-position="120">
+              <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -411,6 +443,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/gamesys/test/ManipulateNumbersTest.java" />
         <option value="$PROJECT_DIR$/README.txt" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gamesys/test/ManipulateNumbers.java" />
       </list>
     </option>
   </component>
@@ -522,24 +555,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestCoveralls" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestCoveralls" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1033,17 +1048,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-75" width="1920" height="1053" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298647" sideWeight="0.5021299" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5021299" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33090532" sideWeight="0.4978701" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298647" sideWeight="0.4978701" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298647" sideWeight="0.4978701" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1097,14 +1112,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gamesys/test/ManipulateNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/gamesys/test/ManipulateNumbersTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1131,8 +1138,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="93" column="63" selection-start-line="93" selection-start-column="63" selection-end-line="93" selection-end-column="63" />
+        <state relative-caret-position="300">
+          <caret line="90" column="31" selection-start-line="90" selection-start-column="31" selection-end-line="90" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gamesys/test/ManipulateNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
           <folding />
         </state>
       </provider>
