@@ -204,15 +204,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Core/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Core/.idea/libraries/Maven__uk_co_datumedge_hamcrest_json_0_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../Core/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gamesys/test/ManipulateNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/gamesys/test/ManipulateNumbersTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../first-dataflow/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../first-dataflow/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../first-dataflow/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_0.xml" />
@@ -321,15 +313,9 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../first-dataflow/user.avsc" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../../hello_world/src/main/hello_world" afterPath="" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/../../../new/src/printing.java" afterPath="$PROJECT_DIR$/../../../new/src/main/java/Printing.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/gamesys/test/ManipulateNumbers.class" afterPath="$PROJECT_DIR$/target/classes/com/gamesys/test/ManipulateNumbers.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/cobertura/cobertura.ser" afterPath="$PROJECT_DIR$/target/cobertura/cobertura.ser" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/com/gamesys/test/ManipulateNumbers.class" afterPath="$PROJECT_DIR$/target/generated-classes/cobertura/com/gamesys/test/ManipulateNumbers.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/coveralls.json" afterPath="$PROJECT_DIR$/target/coveralls.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/cobertura.properties" afterPath="$PROJECT_DIR$/target/generated-classes/cobertura/cobertura.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cobertura/coverage.xml" afterPath="$PROJECT_DIR$/target/site/cobertura/coverage.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.gamesys.test.ManipulateNumbersTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.gamesys.test.ManipulateNumbersTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/gamesys/test/ManipulateNumbersTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/gamesys/test/ManipulateNumbersTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hello_world/.gitignore" afterPath="$PROJECT_DIR$/../../../hello_world/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hello_world/pom.xml" afterPath="$PROJECT_DIR$/../../../hello_world/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../new/.gitignore" afterPath="$PROJECT_DIR$/../../../new/.gitignore" />
@@ -366,11 +352,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -402,11 +388,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ManipulateNumbersTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ManipulateNumbersTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/gamesys/test/ManipulateNumbersTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="21" column="78" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
               <folding />
             </state>
           </provider>
@@ -437,11 +423,11 @@
         <option value="$PROJECT_DIR$/src/main/java/AddNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gamesys/test/AddNumber.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gamesys/test/AddNumberTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/gamesys/test/ManipulateNumbersTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gamesys/test/ManipulateNumbers.java" />
         <option value="$PROJECT_DIR$/README.txt" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gamesys/test/ManipulateNumbersTest.java" />
       </list>
     </option>
   </component>
@@ -506,6 +492,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="TestCoveralls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestCoveralls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestCoveralls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestCoveralls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestCoveralls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1014,8 +1040,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1050,8 +1076,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/gamesys/test/ManipulateNumbersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="21" column="78" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
           <folding />
         </state>
       </provider>
