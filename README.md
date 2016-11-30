@@ -1,0 +1,2 @@
+This is a Test For the Coveralls test coverage tool.
+[![Coverage Status](https://coveralls.io/repos/github/LevelComplete/TestCoveralls/badge.svg?branch=master)](https://coveralls.io/github/LevelComplete/TestCoveralls?branch=master)
